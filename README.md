@@ -27,6 +27,7 @@ My areas of interest include:
 * Software Development
 * Natural Language Processing (NLP)
 * Social Innovation
+* Cybersecurity
 <br><br>
 
 <!--Skills-->
